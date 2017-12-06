@@ -11,6 +11,16 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - basic style guide structure
 
+## 0.0.2 - 2017-12-06
+
+### Added
+
+- peer dependencies
+
 ## [Unreleased]
 
-## 0.0.2 - today
+## 0.0.3 - today
+
+### Added
+
+- peer dependencies
